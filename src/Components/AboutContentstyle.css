@@ -1,0 +1,14 @@
+.about{
+    width:100%;
+    margin:3rem 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    line-height:3ch;
+}
+.about .right{
+    padding-left: 150px;
+    padding-right: 50px;
+    line-height:4ch;
+}
